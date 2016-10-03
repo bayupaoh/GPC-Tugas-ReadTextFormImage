@@ -1,0 +1,7 @@
+#Mon Oct 03 17:37:05 ICT 2016
+base.0=F\:\\BayuTampanProject\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c433020ae468f94a40ca67a8d50fcdfce940c0a3
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\BayuTampanProject\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_29ec72cb2f730f7636b433927673fe9c3363c9a1\\classes.dex
+base.1=F\:\\BayuTampanProject\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_29ec72cb2f730f7636b433927673fe9c3363c9a1
+file.0=F\:\\BayuTampanProject\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c433020ae468f94a40ca67a8d50fcdfce940c0a3\\classes.dex

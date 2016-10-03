@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\BayuTampanProject\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "F:\\BayuTampanProject\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\BayuTampanProject\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\eye.png",
+        "source": "F:\\BayuTampanProject\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\src\\main\\res\\drawable-hdpi\\eye.png"
+    },
+    {
+        "merged": "F:\\BayuTampanProject\\GPC-TugasBesar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\eye.png",
+        "source": "F:\\BayuTampanProject\\GPC-TugasBesar\\app\\src\\main\\res\\drawable-hdpi\\eye.png"
+    },
+    {
+        "merged": "F:\\BayuTampanProject\\GPC-TugasBesar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "F:\\BayuTampanProject\\GPC-TugasBesar\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    }
+]

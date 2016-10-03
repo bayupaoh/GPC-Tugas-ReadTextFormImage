@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\BayuTampanProject\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "F:\\BayuTampanProject\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "F:\\BayuTampanProject\\GPC-TugasBesar\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "F:\\BayuTampanProject\\GPC-TugasBesar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    }
+]

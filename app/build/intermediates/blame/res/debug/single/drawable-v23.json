@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\BayuTampanProject\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "F:\\BayuTampanProject\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "F:\\BayuTampanProject\\GPC-TugasBesar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "F:\\BayuTampanProject\\GPC-TugasBesar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable-v23\\abc_control_background_material.xml"
+    }
+]
